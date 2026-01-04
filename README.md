@@ -14,5 +14,7 @@ xcode-select --install
 then choose option 2
 
 If you haven't installed xcode yet, then choose option 1
+
 ![screenshot](screenshot.png)
+
 #### Tested on MacBook 7.1
