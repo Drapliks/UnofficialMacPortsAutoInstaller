@@ -1,5 +1,5 @@
 # Unofficial MacPorts Auto Installer
-Automatic unofficial macports installer based on python and using shell as an auxiliary tool
+Automatic macports installer based on python and using shell as an auxiliary tool
 # Instruction
 To run enter in the terminal:
 
