@@ -14,7 +14,7 @@ def installmcports():
     os.system('make')
     os.system('make install')
 
-print('Welcome to Unofficial Auto MacPorts installer\n1.Install with xocde\n2.Install\n0.Exit')
+print('Welcome to Unofficial Auto MacPorts installer\n1.Install with xcode\n2.Install\n0.Exit')
 while True:
     act = input()
     if act == 1:
