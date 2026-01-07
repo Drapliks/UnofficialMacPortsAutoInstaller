@@ -1,4 +1,4 @@
-# Unofficial MacPorts Auto Installer ON PYTHON 2.7
+# Unofficial MacPorts Auto Installer PYTHON 2.7
 Automatic macports installer based on python and using shell as an auxiliary tool
 # Instruction
 To run enter in the terminal:
