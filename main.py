@@ -17,12 +17,12 @@ def installmcports():
 print('Welcome to Unofficial Auto MacPorts installer\n1.Install with xcode\n2.Install\n0.Exit')
 while True:
     act = input()
-    if act == 1:
+    if act == "1":
         installxcode()
         downaldmcports()
         installmcports()
-    if act == 2:
+    if act == "2":
         downaldmcports()
         installmcports()
-    if act == 0:
+    if act == "0":
         sys.exit()
